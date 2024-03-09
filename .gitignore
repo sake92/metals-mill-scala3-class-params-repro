@@ -1,0 +1,11 @@
+
+.vscode/
+
+.bloop/
+.bsp/
+
+out/
+
+target/
+
+.metals/

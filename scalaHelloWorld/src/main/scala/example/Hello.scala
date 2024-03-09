@@ -4,5 +4,7 @@ object Hello extends App {
 
   val service = MyService("fssdfs")
 
+  println("Works!")
+
 }
 
